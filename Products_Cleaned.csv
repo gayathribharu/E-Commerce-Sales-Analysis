@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitPrice,StockQuantity
+PROD001,Apple Essential Smart Watches,Electronics,Smart Watches,Apple,50087.66,455
+PROD002,HP Premium Laptops,Electronics,Laptops,HP,63489.38,59
+PROD003,Noise Essential Smart Watche,Electronics,Smart Watches,Noise,36974.66,56
+PROD004,Noise Classic Smart Watches,Electronics,Smart Watches,Noise,11279.66,248
+PROD005,Lenovo Essential Laptop,Electronics,Laptops,Lenovo,24478.35,368
+PROD006,Realme Premium Mobile,Electronics,Mobiles,Realme,31179.82,56
+PROD007,Skullcandy Pro Headphones,Electronics,Headphones,Skullcandy,55079.65,326
+PROD008,Dell Advanced Laptops,Electronics,Laptops,Dell,48730.34,250
+PROD009,Xiaomi Deluxe Mobile,Electronics,Mobiles,Xiaomi,30589.53,222
+PROD010,Canon Advanced Cameras,Electronics,Cameras,Canon,83860.53,20
+PROD011,Samsung Classic Smart Watches,Electronics,Smart Watches,Samsung,51687.58,123
+PROD012,HP Essential Laptop,Electronics,Laptops,Unknown Brand,20544.9,331
+PROD013,Fire-Boltt Premium Smart Watches,Electronics,Smart Watches,Fire-Boltt,9099.72,237
+PROD014,Noise Premium Headphones,Electronics,Headphones,Noise,13415.75,36
+PROD015,Skullcandy Deluxe Headphones,Electronics,Headphones,Skullcandy,21282.67,41
+PROD016,Anker Premium Accessorie,Electronics,Accessories,Anker,14076.74,187
+PROD017,boAt Deluxe Accessorie,Electronics,Accessories,boAt,16264.1,171
+PROD018,Nikon Deluxe Cameras,Electronics,Cameras,Nikon,24589.83,459
+PROD019,Noise Compact Headphones,Electronics,Headphones,Noise,15149.24,424
+PROD020,Noise Essential Headphones,Electronics,Headphones,Noise,76276.58,484
+PROD021,Titan Classic Watches,Fashion,Watches,Titan,836.57,91
+PROD022,Vero Moda Pro Women's Clothing,Fashion,Women's Clothing,Vero Moda,3813.23,447
+PROD023,American Tourister Compact Bags,Fashion,Bags,Unknown Brand,3048.66,227
+PROD024,Zara Essential Women's Clothing,Fashion,Women's Clothing,Zara,6880.94,210
+PROD025,Fastrack Compact Bags,Fashion,Bags,Fastrack,1049.66,67
+PROD026,Adidas Premium Footwear,Fashion,Footwear,Adidas,2964.63,75
+PROD027,Skybags Pro Bags,Fashion,Bags,Skybags,6794.45,429
+PROD028,Levi's Essential Men's Clothing,Fashion,Men's Clothing,Levi's,6097.9,294
+PROD029,Peter England Essential Men's Clothing,Fashion,Men's Clothing,Peter England,5773.38,75
+PROD030,H&M Compact Men's Clothing,Fashion,Men's Clothing,H&M,6837.695,393
+PROD031,Skybags Everyday Bags,Fashion,Bags,Skybags,1443.95,148
+PROD032,Fastrack Essential Bags,Fashion,Bags,Fastrack,4778.91,374
+PROD033,H&M Deluxe Men's Clothing,Fashion,Men's Clothing,H&M,6525.82,228
+PROD034,American Tourister Everyday Bag,Fashion,Bags,American Tourister,4029.31,42
+PROD035,Fastrack Deluxe Bags,Fashion,Bags,Fastrack,4128.81,308
+PROD036,Vero Moda Essential Women's Clothing,Fashion,Women's Clothing,Vero Moda,2174.86,197
+PROD037,Wildcraft Deluxe Bags,Fashion,Bags,Wildcraft,5454.6,227
+PROD038,Fossil Pro Watches,Fashion,Watches,Fossil,1552.19,306
+PROD039,Nike Advanced Footwear,FASHION,Footwear,Nike,2467.65,45
+PROD040,American Tourister Deluxe Bag,Fashion,Bags,American Tourister,3149.42,195
+PROD041,Dove Compact Personal Care,Beauty,Personal Care,Dove,1571.07,286
+PROD042,Sugar Cosmetics Classic Makeup,Beauty,Makeup,Sugar Cosmetics,801.99,334
+PROD043,Dove Classic Haircare,Beauty,Haircare,Dove,432.03,391
+PROD044,Nivea Advanced Personal Care,Beauty,Personal Care,Nivea,1869.8,444
+PROD045,Lakme Everyday Makeup,Beauty,Makeup,Lakme,936.03,83
+PROD046,Maybelline Premium Makeup,Beauty,Makeup,Maybelline,1784.59,139
+PROD047,Lakme Deluxe Makeup,Beauty,Makeup,Lakme,546.65,392
+PROD048,Nykaa Everyday Makeup,Beauty,Makeup,Nykaa,1494.31,138
+PROD049,Dove Pro Haircare,Beauty,Haircare,Dove,1643.51,265
+PROD050,Dove Deluxe Haircare,Beauty,Haircare,Dove,249.29,79
+PROD051,Himalaya Advanced Personal Care,Beauty,Personal Care,Himalaya,1075.15,235
+PROD052,Nykaa Essential Makeup,Beauty,Makeup,Nykaa,488.8,71
+PROD053,Maybelline Everyday Makeup,Beauty,Makeup,Maybelline,282.79,14
+PROD054,L'Oreal Pro Haircare,Beauty,Haircare,L'Oreal,2969.88,107
+PROD055,Lakme Compact Skincare,Beauty,Skincare,Lakme,1033.83,387
+PROD056,Himalaya Compact Personal Care,Beauty,Personal Care,Himalaya,6837.695,60
+PROD057,Lakme Deluxe Skincare,Beauty,Skincare,Lakme,837.46,300
+PROD058,Nykaa Essential Makeup,Beauty,Makeup,Nykaa,2075.36,82
+PROD059,Lakme Premium Skincare,Beauty,Skincare,Lakme,2303.66,270
+PROD060,Himalaya Classic Personal Care,Beauty,Personal Care,Himalaya,1826.35,473
+PROD061,Firefox Compact Cycling,Sports,Cycling,Firefox,7649.9,344
+PROD062,Puma Advanced Sportswear,Sports,Sportswear,Puma,6706.09,57
+PROD063,Wildcraft Everyday Outdoor Gear,Sports,Outdoor Gear,Wildcraft,5711.12,285
+PROD064,Quechua Everyday Outdoor Gear,Sports,Outdoor Gear,Quechua,14885.56,351
+PROD065,Decathlon Classic Outdoor Gear,Sports,Outdoor Gear,Decathlon,13322.79,458
+PROD066,Quechua Classic Outdoor Gear,Sports,Outdoor Gear,Quechua,15446.43,202
+PROD067,Quechua Classic Outdoor Gear,Sports,Outdoor Gear,Quechua,2162.9,379
+PROD068,Puma Advanced Footwear,Sports,Footwear,Puma,11746.71,62
+PROD069,Btwin Advanced Cycling,Sports,Cycling,Btwin,15024.78,182
+PROD070,Puma Compact Footwear,Sports,Footwear,Puma,3062.48,55
+PROD071,Cosco Premium Fitness Equipment,Sports,Fitness Equipment,Cosco,1249.64,425
+PROD072,Puma Everyday Footwear,Sports,Footwear,Puma,11908.71,318
+PROD073,Wildcraft Deluxe Outdoor Gear,Sports,Outdoor Gear,Wildcraft,9275.68,150
+PROD074,Hero Premium Cycling,Sports,Cycling,Hero,13499.89,220
+PROD075,Wildcraft Premium Outdoor Gear,Sports,Outdoor Gear,Wildcraft,2407.4,16
+PROD076,Decathlon Advanced Sportswear,Sports,Sportswear,Decathlon,12764.22,68
+PROD077,Quechua Compact Outdoor Gear,Sports,Outdoor Gear,Quechua,3384.71,243
+PROD078,Decathlon Essential Cycling,Sports,Cycling,Decathlon,2784.76,392
+PROD079,Adidas Premium Footwear,Sports,Footwear,Adidas,2794.4,391
+PROD080,Asics Essential Footwear,Sports,Footwear,Asics,13069.28,28
+PROD081,Hawkins Classic Cookware,Home & Kitchen,Cookware,Hawkins,16679.15,172
+PROD082,Havells Everyday Appliance,Home & Kitchen,Appliances,Havells,13147.18,240
+PROD083,Milton Compact Storage,Home & Kitchen,Storage,Milton,9065.94,51
+PROD084,Homesake Everyday Home Decor,Home & Kitchen,Home Decor,Homesake,21947.43,186
+PROD085,Pigeon Everyday Cookware,HOME & KITCHEN,Cookware,Pigeon,9901.26,135
+PROD086,Prestige Essential Cookware,Home & Kitchen,Cookware,Prestige,20441.5,139
+PROD087,Hawkins Everyday Cookware,Home & Kitchen,Cookware,Hawkins,11061.5,221
+PROD088,Tupperware Pro Storage,HOME & KITCHEN,Storage,Tupperware,9516.07,451
+PROD089,Philips Advanced Appliances,Home & Kitchen,Appliances,Philips,11646.59,372
+PROD090,Godrej Interio Advanced Furniture,Home & Kitchen,Furniture,Godrej Interio,7638.24,210
+PROD091,Philips Everyday Appliances,Home & Kitchen,Appliances,Philips,18727.09,131
+PROD092,Pigeon Everyday Cookware,Home & Kitchen,Cookware,Pigeon,12641.6,237
+PROD093,Nilkamal Everyday Furniture,HOME & KITCHEN,Furniture,Nilkamal,5919.49,69
+PROD094,Milton Premium Cookware,Home & Kitchen,Cookware,Milton,22503.43,28
+PROD095,Philips Classic Appliances,Home & Kitchen,Appliances,Philips,9688.7,429
+PROD096,Hawkins Compact Cookware,Home & Kitchen,Cookware,Hawkins,13656.29,452
+PROD097,Tupperware Deluxe Storage,Home & Kitchen,Storage,Tupperware,22674.83,478
+PROD098,Havells Everyday Appliances,Home & Kitchen,Appliances,Havells,15661.31,28
+PROD099,Havells Deluxe Appliances,Home & Kitchen,Appliances,Havells,3053.92,450
+PROD100,IKEA Premium Home Decor,Home & Kitchen,Home Decor,IKEA,23503.83,430
